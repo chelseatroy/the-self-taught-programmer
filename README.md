@@ -31,7 +31,7 @@ For an excellent cheat guide to well-organized writing, you want to look at Sect
 
 Other guidelines for contributing to this book:
 
-**1. Keep it language-agnostic.** That does not mean that you cannot express evidence-based statements on the fitness of a language *for a particular purpose.* For example, it is okay to say "the python programming language requires a minimal amount of setup to begin writing functional programs, so it is useful as a starter language for a first-time programmer." However, keep in mind that *every* language possesses self-taught users, and the majority of this book's advice should be useful to all of them. 
+**1. Keep it language-agnostic.** That does not mean that you cannot express evidence-based statements on the fitness of a language *for a particular purpose.* For example, it is okay to say "the python programming language requires a minimal amount of setup to begin writing programs, so it is useful as a starter language for a first-time programmer." However, keep in mind that *every* language possesses self-taught users, and the majority of this book's advice should be useful to all of them. 
 
 **2. Keep it IDE, color scheme, library, and framework-agnostic.** The same rules apply as above for languages.
 
