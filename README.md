@@ -7,7 +7,7 @@ Instead, this book is about self-education. It will cover the psychology of lear
 
 ## Who is a Self-Taught Programmer?
 
-Who is a self-taught programmer? For now, we define it as anyone who learns to program computers outside of a formal education environment, at any point. So this includes beginners who go online to try their hand at their very first programming language. It also includes programmers who have reached some level of proficiency through independent study and tutoring. It includes all of the masters, because mastery of a still requires extensive additional self-education outside of formal teaching environments.
+Who is a self-taught programmer? For now, we define it as anyone who learns to program computers outside of a formal education environment, *at any point*. So this includes beginners who go online to try their hand at their very first programming language. It also includes programmers who have reached some level of proficiency through independent study and tutoring. It includes all of the masters, because mastery of a still requires extensive additional self-education outside of formal teaching environments.
 
 ## This Book is a Collaborative Project.
 
