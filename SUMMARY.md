@@ -5,4 +5,5 @@
 * The Materials You Will Need
 * Sticking to a Study Schedule
 * Choosing A Learning Project
+* Finding a Mentor
 
