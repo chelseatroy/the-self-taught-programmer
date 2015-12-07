@@ -1,2 +1,0 @@
-# Setting Goals and Expectations
-
