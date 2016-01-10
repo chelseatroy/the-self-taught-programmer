@@ -4,7 +4,7 @@
 * [Setting Goals and Expectations](setting_goals_and_expectations.md)
 * [The Materials You Will Need](the_materials_you_will_need.md)
 * Sticking to a Study Schedule
-* Choosing A Learning Project
+* [Choosing A Learning Project](choosing_a_learning_project.md)
 * Finding a Mentor
 * Programming with Others
 
