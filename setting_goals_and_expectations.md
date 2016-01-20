@@ -6,4 +6,10 @@ The idea of goals comes with some pitfalls for a self-taught programmer. The fir
 
 Instead, it can be helpful to establish a specific project in which to learn something new about programming. For example, you may have a specific iOS app in mind, and you would like to complete that app. A project offers gives you an established finish line and a way to move forward incrementally until you arrive. 
 
+It is helpful to anticipate the way that your motivation will wax and wane during the learning process.
+
+This chart represents how you may feel over the course of learning a new programming concept:
+
+
 ![](6597926286215011610.jpg)
+
