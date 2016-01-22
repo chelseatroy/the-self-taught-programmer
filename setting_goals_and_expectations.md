@@ -13,3 +13,7 @@ This chart represents how you may feel over the course of learning a new program
 
 ![](6597926286215011610.jpg)
 
+That dip at about two months important to notice. When you learn something new, you start with a high level of confidence after a few small successes. Those small successes lead to new things: the chance to try out your new knowledge in the real world, or in the context of a project. Outside of its limited initial context, your new-found collection of knowledge and skill looks much smaller. That experience can be jarring. However, those obstacles are an important part of the learning process.
+
+Those obstacles—the struggles, the dips in confidence—will be easier to overcome if you see them coming. You will not always feel excited to study, and you will not always feel like you're progressing. Luckily, the trick is *not* to stay motivated. It is to go ahead and put in practice time even when you are not feeling motivated. 
+
