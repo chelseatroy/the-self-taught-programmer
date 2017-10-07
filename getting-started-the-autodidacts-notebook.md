@@ -27,7 +27,3 @@ That said, you can make a note of things you want to come BACK to. With more con
 
 one step further: learning is about being able to produce answers and apply ideas, not just read or memorize them. So take exercises one step further rather than just copying them, to solve problems on your own. Example: implement gradient descent for multiple feature dimensions instead of just one, or come up w new ways to visualize data instead of just graphing it.
 
-
-
-
-
