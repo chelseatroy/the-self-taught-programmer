@@ -2,13 +2,20 @@
 
 I have a secret laboratory. I carry it with me everywhere.
 
-You can tell that it has seen years of use. The spine depends on duct tape to hold the contents together. A few sticky notes grace the first page: refactoring to-do lists from years ago. The cover sports two patches of robust color. A couple of Github stickers used to be there, shielding the original cover design from fading until I peeled them off. 
+You can tell that it has seen years of use. The spine depends on duct tape to hold the contents together. A few sticky notes grace the first page: refactoring to-do lists from years ago. The cover sports two patches of robust color. A couple of Github stickers used to be there, shielding the original cover design from fading until I peeled them off.
 
-When I bought the notebook as a fresh new Rails developer, I planned only on using it to keep track of blog post ideas. Instead, it became a critical resource as I taught myself how to develop for Rails, Spring, Android, and iOS, and Django. The notebook also helped me improve my technical writing, build my network, and master the foundations of data science and machine learning. As I have continued to work with the notebook, I have experimented with dozens of techniques, several of which have an outsize effect on my ability to build skills and apply new knowledge. 
+When I bought the notebook as a fresh Rails developer, I planned only on using it to keep track of blog post ideas. Instead, it became a critical resource as I taught myself how to develop for Rails, Spring, Android, and iOS, and Django. The notebook also helped me improve my technical writing, build my network, and master the foundations of data science and machine learning. As I have continued to work with the notebook, I have experimented with dozens of techniques, several of which have an outsize effect on my ability to build skills and apply new knowledge.
 
-We can use the autodidact's notebook techniques as a lens to discuss how we learn, and how you can use an autodidact's notebook to be an effective self-taught programmer.
+~~_**We can use those techniques as a lens to discuss how we learn, and how you can use an autodidact's notebook to be an effective self-taught programmer.**_~~
 
-Progress tracking system: a notebook
+Benefits of a Notebook:
+
+1. Writing in it forces you to think \(thinking fast and slow\)
+2. Having a record helps you look back at your progress
+3. Helps to codify focused practice \(Grit\)
+4. Gives you the freedom to draw pictures and associate \(Moonwalking with Einstein\)
+
+=====
 
 get better AT getting better at \(solving a second order problem\)
 
@@ -20,12 +27,7 @@ That said, you can make a note of things you want to come BACK to. With more con
 
 one step further: learning is about being able to produce answers and apply ideas, not just read or memorize them. So take exercises one step further rather than just copying them, to solve problems on your own. Example: implement gradient descent for multiple feature dimensions instead of just one, or come up w new ways to visualize data instead of just graphing it.
 
-### Benefits of a Notebook:
 
-1. Writing in it forces you to think \(thinking fast and slow\)
-2. Having a record helps you look back at your progress
-3. Helps to codify focused practice \(Grit\)
-4. Gives you the freedom to draw pictures and associate \(Moonwalking with Einstein\)
 
 
 
